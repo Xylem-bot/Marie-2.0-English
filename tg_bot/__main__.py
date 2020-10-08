@@ -20,12 +20,15 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+Im xylem group manager bot.
 
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
+Xylem Learning is a complete entrance oriented learning platform for NEET/JEE aspirants. Join Our Channel - @xylemlearning.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
+This is our website [Xylem Website](https://prep.xylemlearning.com/learn/account/invite-signup?code=7K6BK&source=link),
+
+you can sign up for free daily quiz and many more..
+
+Install oru App [Xylem App](https://play.google.com/store/apps/details?id=com.owebso.svs.xylemlern&hl=en_IE)
 
 For more commands click /help...
 
@@ -40,7 +43,6 @@ Hello! my name *{}*.
 *Main* available commands:
  - /start: Start the bot...
  - /help: help....
- - /donate: To find out more about donating!
  - /settings:
    - in PM: To find out what SETTINGS you have set....
    - in a group:
